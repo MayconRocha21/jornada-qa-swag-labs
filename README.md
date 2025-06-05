@@ -28,8 +28,8 @@ cypress/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/MayconRocha21/jornada-qa-swag-labs
+   cd jornada-qa-swag-labs
 
 2. Instale as dependências:
 
@@ -44,7 +44,7 @@ npx cypress open
 
 
 👨🏾‍💻 Autor
-Desenvolvido por [Maycon Rocha], estudante de QA e entusiasta em testes automatizados.
+Desenvolvido por [ Maycon Rocha ], estudante de QA e entusiasta em testes automatizados.
 
 
 
